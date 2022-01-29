@@ -1,5 +1,5 @@
 # otp
-Urban accessibility analysis using Open Trip Planner, R5R, GTFS feeds, Open Street Map data.  Primary analysis in Bogota, Colombia.
+Urban accessibility analysis using Open Trip Planner, R5R, GTFS feeds, Open Street Map data on various projects in Bogota Colombia, San Francisco, and for expert witness testimony in Ohio and Texas regarding ballot drop off box restrictions in Ohio and Texas.
 
 **OTP Setup Guide:**
 
